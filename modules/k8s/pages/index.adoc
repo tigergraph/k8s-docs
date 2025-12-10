@@ -1,0 +1,3 @@
+= TigerGraph Kubernetes Operator Docs
+
+This is the starting page. Content will be added later.

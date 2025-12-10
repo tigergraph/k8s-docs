@@ -1,0 +1,3 @@
+= TigerGraph Kubernetes Operator Docs Repository
+
+This repository will store the documentation for the TigerGraph Kubernetes Operator.

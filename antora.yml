@@ -1,0 +1,5 @@
+name: k8s-docs
+title: TigerGraph Kubernetes Operator Documentation
+version: 1.6.0
+nav:
+  - modules/k8s/nav.adoc
