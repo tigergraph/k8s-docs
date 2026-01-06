@@ -1,1 +1,3 @@
-* xref:introduction/overview.adoc[Overview]
+* xref:index.adoc[Overview]
+* Introduction
+** xref:introduction/overview.adoc[What is the Operator?]
